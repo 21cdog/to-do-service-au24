@@ -1,6 +1,6 @@
-# to-do-service
+# Heading - testing
 
-REST API Sample for shared documentation practice
+Couple lines of text - testing
 
 For the REST API docs, see [The To-Do Service docs](https://uwc2-apidoc.github.io/to-do-service-au24/).
 
